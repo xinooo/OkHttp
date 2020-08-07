@@ -22,7 +22,7 @@ import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-    // 建立OkHttpClient2
+    // 建立OkHttpClient3
     OkHttpClient client = new OkHttpClient().newBuilder().build();
 
     @Override
